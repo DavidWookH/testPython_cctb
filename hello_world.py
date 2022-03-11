@@ -1,0 +1,1 @@
+print("Hello, World!!! This is test platform for Python by WookHuang")
